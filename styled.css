@@ -1,0 +1,23 @@
+.principal{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 2%;
+    margin: 2% 30%;
+    padding: 0 0 2% 0;
+}
+.area_altura{
+    display: flex;
+    align-items: center;
+}
+.area_peso{
+    display: flex;
+    align-items: center;
+}
+.texto{
+    color: white;
+}
+.botao{
+
+}
