@@ -6,6 +6,7 @@
     border-radius: 2%;
     margin: 2% 30%;
     padding: 0 0 2% 0;
+    gap: 10px;
 }
 .area_altura{
     display: flex;
